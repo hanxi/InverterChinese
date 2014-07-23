@@ -9,5 +9,5 @@ A board based puzzle game. Play at http://gorried.github.io/inverter/game.html
 
 ### 中文:
 
-智力拼图游戏。在线玩 http://hanxi.info/inverter.html
+智力拼图游戏。安卓版下载 敬请期待
 
