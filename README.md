@@ -1,7 +1,7 @@
-Inverter
-========
+InverterChinese
+===============
 
-fork from https://github.com/gorried/inverter
+Inverter 中文版 fork from https://github.com/gorried/inverter
 
 ### english
 
